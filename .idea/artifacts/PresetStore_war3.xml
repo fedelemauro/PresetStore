@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PresetStore:war3">
+    <output-path>$PROJECT_DIR$/out/artifacts/PresetStore_war3</output-path>
+    <root id="archive" name="PresetStore_war.war">
+      <element id="artifact" artifact-name="PresetStore:war exploded" />
+    </root>
+  </artifact>
+</component>
