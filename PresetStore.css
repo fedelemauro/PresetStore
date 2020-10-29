@@ -1,0 +1,15 @@
+html
+{
+    background-color: #e3e6e8;
+}
+
+body nav
+{
+    font-family:"Gill Sans MT";
+}
+
+
+
+footer::before{ background-color: #abb5ba}
+
+
